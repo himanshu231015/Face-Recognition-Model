@@ -1,0 +1,6 @@
+dataset/
+encodings_cache.pkl
+face_model.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
